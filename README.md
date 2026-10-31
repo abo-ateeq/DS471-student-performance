@@ -3,7 +3,7 @@
 
 **Group Members:**
 - Mohammed Ateeq Al-Malki
-- Abdulillah Ayash
+- Abdulellah Ayash
 - Yousef Al-Yousef
 - Moneb Tallab
 
